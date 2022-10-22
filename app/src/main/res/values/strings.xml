@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Online_Store</string>
+    <string name="online_groc">online groceriet</string>
+    <string name="time">9:41</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
